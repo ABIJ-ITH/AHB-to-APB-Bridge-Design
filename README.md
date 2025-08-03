@@ -45,7 +45,7 @@ The design is fully synthesizable and simulated successfully with Verilog testbe
 ---
 
 ## Schematic
-![AHB to APB Bridge Schematic](Screenshots/ahb2apb_schematic.png)
+![AHB to APB Bridge Schematic](Screenshots/Schematic.png)
 
 ## Setup Instructions
 Clone the repository:
@@ -53,7 +53,7 @@ Clone the repository:
 git clone https://github.com/ABIJ-ITH/AHB-to-APB-Bridge-Design.git
 ```
 ## Simulation Result
-![Simulation Waveform](Screenshots/simulation_waveform.png)
+![Simulation Waveform](Screenshots/simulation.png)
 
 ## LISENCE
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
